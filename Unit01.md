@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME102: Mechanics I"
+course_description: "An introduction to the study of mechanics, or how forces affect bodies in motion. Reviews Newtonian physics and its application to statics systems, analyzes static systems and solid objects, stress and strain relationships, and material dynamics."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Statics** <span id="1"></span> 
 **The first unit of this course covers static analysis.  You will
 briefly review vectors (graphical elements allowing you to visualize the

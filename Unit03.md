@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME102: Mechanics I"
+course_description: "An introduction to the study of mechanics, or how forces affect bodies in motion. Reviews Newtonian physics and its application to statics systems, analyzes static systems and solid objects, stress and strain relationships, and material dynamics."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Bending, Yield, Fracture, Buckling and Creep** <span
 id="3"></span> 
 *You now know how structures will react internally when loaded with
