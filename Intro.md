@@ -169,3 +169,4 @@ course.
 - [Unit 2](https://legacy.saylor.org/me102/Unit02/)
 - [Unit 3](https://legacy.saylor.org/me102/Unit03/)
 - [Unit 4](https://legacy.saylor.org/me102/Unit04/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME102/ME102-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME102/ME102-FinalExam-Answers.html)
