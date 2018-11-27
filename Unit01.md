@@ -95,7 +95,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Activity: The Saylor Foundation's “Introduction and Motivation:
     Bridge Design”**
     Link: The Saylor Foundation’s [“Introduction and Motivation: Bridge
-    Design”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.1.1.pdf) (PDF)  
+    Design”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.1.1.pdf) (PDF)  
         
      Instructions: Please read click on the link above and perform the
     activities described in the resource.  You may collaborate with
@@ -111,7 +111,7 @@ Upon successful completion of this unit, the student will be able to:
     “Notation and Units”**
     Link: University of Nebraska-Lincoln: Dr. M. Negahban’s [“Notation
     and
-    Units”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.1.2.pdf)
+    Units”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.1.2.pdf)
     Lecture (PDF)  
         
      Instructions: Please click on the link above and read the lecture
@@ -138,7 +138,7 @@ Upon successful completion of this unit, the student will be able to:
     “Scalars and Vectors”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s
     [“Scalars and
-    Vectors”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.1.3.pdf) (PDF)  
+    Vectors”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.1.3.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article, which provides a concise reference for vector addition and
@@ -165,7 +165,7 @@ Upon successful completion of this unit, the student will be able to:
     “Vector Components 2-D”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s [“Vector
     Components
-    2-D”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.1.4.pdf) (PDF)  
+    2-D”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.1.4.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article, which provides a reference for the representation of
@@ -183,7 +183,7 @@ Upon successful completion of this unit, the student will be able to:
     “Vector Components 3-D”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s [“Vector
     Components
-    3-D”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.1.5.pdf) (PDF)  
+    3-D”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.1.5.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article, which provides a reference for representation of vectors in
@@ -199,7 +199,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Activity: The Saylor Foundation’s “Vectors: Review and Self
     Study”**
     Link: The Saylor Foundation’s [“Vectors: Review and Self
-    Study”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.1.52.pdf) (PDF)  
+    Study”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.1.52.pdf) (PDF)  
         
      Instructions: Please read the linked document in its entirety.
     Follow along with the example problems in detail.  You may need to
@@ -217,7 +217,7 @@ acting on an object.*
 **1.2.1 Force** <span id="1.2.1"></span> 
 -   **Reading: The Saylor Foundation's “Forces and Moments”**
     Link: The Saylor Foundation's [“Forces and
-    Movements”](http://www.saylor.org/site/wp-content/uploads/2012/10/ME1021.2.1.pdf) (PDF)  
+    Movements”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ME1021.2.1.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -232,7 +232,7 @@ acting on an object.*
     “Static Equilibrium for a Particle”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s [“Static
     Equilibrium for a
-    Particle”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.2.2.pdf) (PDF)  
+    Particle”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.2.2.pdf) (PDF)  
         
      Instructions: Please read the entire webpage which introduces the
     equations for  static equilibrium.  
@@ -257,7 +257,7 @@ acting on an object.*
     “Moment of a Force: Part 1”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s [“Moment
     of a Force: Part
-    1”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.2.3.pdf)
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.2.3.pdf)
      (PDF)  
         
      Instructions: Please click on the link above and read the entire
@@ -282,7 +282,7 @@ acting on an object.*
 -   **Activity: The Saylor Foundation’s “Moments and Cross Products:
     Practice Calculations”**
     Link: The Saylor Foundation’s [“Moments and Cross Products: Practice
-    Calculations”](http://www.saylor.org/site/wp-content/uploads/2013/11/ME102-1.2.4_FINAL.pdf) (PDF)  
+    Calculations”](https://resources.saylor.org/archived/wp-content/uploads/2013/11/ME102-1.2.4_FINAL.pdf) (PDF)  
         
      Instructions:  Please click on the link above and work through all
     problems in the document and compare your solutions with those
@@ -299,7 +299,7 @@ acting on an object.*
 
     Link: University of Nebraska atLincoln: Mehrdad Negahban’s [<span
     class="s1">“Moment of a Force: Part
-    2”</span>](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.2.42.pdf)
+    2”</span>](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.2.42.pdf)
      (PDF)
 
     Instructions: Please click on the link above and read the entire
@@ -315,7 +315,7 @@ acting on an object.*
 **1.2.5 Equivalent of Force-Couple System** <span id="1.2.5"></span> 
 -   **Reading: The Saylor Foundation’s “Resultant of Systems”**
     Link: The Saylor Foundation’s [“Resultant of
-    Systems”](http://www.saylor.org/site/wp-content/uploads/2012/10/ME1021.2.5.pdf) (PDF)  
+    Systems”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ME1021.2.5.pdf) (PDF)  
         
      Instructions:  Please click on the link above and read the entire
     article. You may wish to review basic vector operations first.  
@@ -329,7 +329,7 @@ acting on an object.*
     “Equivalent of Force-Couple System: Part 1”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s
     [“Equivalent of Force-Couple System: Part
-    1”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.2.52.pdf) (PDF)  
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.2.52.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article. It introduces the calculations of reducing mulitiple forces
@@ -349,7 +349,7 @@ id="1.2.6"></span> 
     “Equivalent of Force-Couple System: Distributed Loads”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s
     [“Equivalent of Force-Couple System: Distributed
-    Loads”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.2.6.pdf) (PDF)  
+    Loads”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.2.6.pdf) (PDF)  
       
      Instructions: Please click on the link above and read the entire
     article.  The reading introduces how equivalent of multiple force
@@ -367,7 +367,7 @@ id="1.2.6"></span> 
 **1.3.1 Equilibrium for Rigid Bodies** <span id="1.3.1"></span> 
 -   **Reading: The Saylor Foundation’s “Equilibrium Conditions”**
     Link: The Saylor Foundation’s [“Equilibrium
-    Conditions”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.3.1.pdf) (PDF)  
+    Conditions”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.3.1.pdf) (PDF)  
         
      Instructions:  Please click on the link above and read the entire
     article.  
@@ -384,7 +384,7 @@ id="1.2.6"></span> 
     “Equilibrium for Rigid Bodies”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s
     [“Equilibrium for Rigid
-    Bodies”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.3.12.pdf) (PDF)  
+    Bodies”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.3.12.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  This reading introduces the equations involved in the
@@ -401,7 +401,7 @@ id="1.2.6"></span> 
 **1.3.2 Trusses** <span id="1.3.2"></span> 
 -   **Reading: The Saylor Foundation’s “Trusses”**
     Link: The Saylor Foundation’s
-    [“Trusses”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.3.2.pdf) (PDF)  
+    [“Trusses”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.3.2.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article. Follow along with the example problem in detail.  You may
@@ -416,7 +416,7 @@ id="1.2.6"></span> 
     “The Analysis of Trusses”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s [“The
     Analysis of
-    Trusses”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.3.22.pdf) (PDF)  
+    Trusses”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.3.22.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  The lecture will introduce you to mechanics involved in
@@ -450,14 +450,14 @@ id="1.2.6"></span> 
 
 -   **Activity: The Saylor Foundation’s “Automated Truss Calculations”**
     Link: The Saylor Foundation’s [“Automated Truss
-    Calculations”](http://www.saylor.org/site/wp-content/uploads/2013/02/ME102-1.3.2-AppFINAL.pdf) (PDF)  
+    Calculations”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/ME102-1.3.2-AppFINAL.pdf) (PDF)  
       
      Instructions: Please click on the link above and work through the
     three exercises. Compare your work with the example solutions
     provided here for [“Problem
-    1”](http://www.saylor.org/site/wp-content/uploads/2013/02/Problem1.html) and
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/Problem1.html) and
     [“Problem
-    2”](http://www.saylor.org/site/wp-content/uploads/2013/02/Problem2.html).  
+    2”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/Problem2.html).  
       
      Completing these activites will take you approximately 60 minutes
     to complete.  
@@ -472,7 +472,7 @@ id="1.2.6"></span> 
     “Frames and Machines”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s [“Frames
     and
-    Machines”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.3.3.pdf)
+    Machines”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.3.3.pdf)
     (PDF)  
         
      Instructions: Please read the entire webpage.  The lecture will
@@ -491,7 +491,7 @@ id="1.2.6"></span> 
 -   **Reading: University of Nebraska at Lincoln: Mehrdad Negahban’s
     “Dry Friction”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s [“Dry
-    Friction”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.3.4.pdf) (PDF)  
+    Friction”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.3.4.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  It will introduce you to mechanics involved in the design
@@ -515,7 +515,7 @@ id="1.2.6"></span> 
 **1.3.5 Internal Forces** <span id="1.3.5"></span> 
 -   **Reading: The Saylor Foundation’s “Internal Forces”**
     Link: The Saylor Foundation’s [“Internal
-    Forces”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.3.5.pdf) (PDF)  
+    Forces”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.3.5.pdf) (PDF)  
         
      Instructions:  Please click on the link above and read the entire
     article.  
@@ -529,7 +529,7 @@ id="1.2.6"></span> 
     “Internal Forces”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s
     [“Internal
-    Forces”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.3.52.pdf)
+    Forces”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.3.52.pdf)
     (PDF)  
         
      Instructions: Please click on the link above and read the entire
@@ -548,7 +548,7 @@ id="1.2.6"></span> 
     “Wedges and Screws”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s [“Wedges
     and
-    Screws”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.3.6.pdf) (PDF)  
+    Screws”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.3.6.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article, which introduces mechanics involving wedges and screws.  
@@ -564,7 +564,7 @@ id="1.2.6"></span> 
 -   **Reading: University of Nebraska at Lincoln: Mehrdad Negahban’s
     “Belts”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s
-    [“Belts”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.3.7.pdf)
+    [“Belts”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.3.7.pdf)
     (HTML)  
         
      Instructions: Please click on the link above and read the entire
@@ -581,7 +581,7 @@ id="1.2.6"></span> 
 -   **Activity: The Saylor Foundation’s “Subunit 1.3.8 - Review
     Activities”**
     Link: The Saylor Foundation’s [“Subunit 1.3.8 - Review
-    Activities”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1021.3.8.pdf)
+    Activities”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1021.3.8.pdf)
     (PDF)  
         
      Instructions: Please click on the link above and complete both

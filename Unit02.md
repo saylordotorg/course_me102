@@ -91,7 +91,7 @@ Upon successful completion of this unit, the student will be able to:
     “Area Moments of Inertia”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s [“Area
     Moments of
-    Inertia”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.1.1.pdf)
+    Inertia”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.1.1.pdf)
     (PDF)  
         
      Instructions: Please click on the link above and read the entire
@@ -111,7 +111,7 @@ Upon successful completion of this unit, the student will be able to:
     “Mass Moments of Inertia”**
     Link: University of Nebraska at Lincoln: Mehrdad Negahban’s [“Mass
     Moments of
-    Inertia”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.1.2.pdf) (PDF)  
+    Inertia”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.1.2.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  What is the difference between the mass and area moments
@@ -128,12 +128,12 @@ Upon successful completion of this unit, the student will be able to:
 -   **Activity: The Saylor Foundation’s “ME102: Subunit 2.1.2
     Activity”**
     Link: The Saylor Foundation’s [“ME102: Subunit 2.1.2
-    Activity”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.1.22.pdf) (PDF)  
+    Activity”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.1.22.pdf) (PDF)  
       
      Instructions: Please click the link above and complete the quiz.
      When you are done, check your work against The Saylor Foundation’s
     [“ME102: Subunit 2.1.2 Activity Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/08/ME102-UA-2.1.2-ANSWERKEY-FINAL.pdf) (PDF).  
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME102-UA-2.1.2-ANSWERKEY-FINAL.pdf) (PDF).  
       
      Terms of Use: This resource is licensed under a [Creative Commons
     Attribution 3.0
@@ -146,7 +146,7 @@ Upon successful completion of this unit, the student will be able to:
     “Introduction to Elastic Response”**
     Link: Massachusetts Institute of Technology: David
     Roylance’s [“Introduction to Elastic
-    Response”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.2.1.pdf) (PDF)  
+    Response”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.2.1.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -171,7 +171,7 @@ Upon successful completion of this unit, the student will be able to:
     and Performance of Materials”**
     Link: The Saylor Foundation’s [“Testing of Mechanical Properties and
     Performance of
-    Materials”](http://www.saylor.org/site/wp-content/uploads/2012/10/ME1022.2.22.pdf) (PDF)  
+    Materials”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ME1022.2.22.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  You may wish to peruse the technical data for commercial
@@ -188,7 +188,7 @@ Upon successful completion of this unit, the student will be able to:
     “Atomistics of Elasticity”**
     Link: Massachusetts Institute of Technology: David
     Roylance’s [“Atomistics of
-    Elasticity”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.2.2.pdf) (PDF)  
+    Elasticity”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.2.2.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -205,7 +205,7 @@ Upon successful completion of this unit, the student will be able to:
     “Introduction to Composites”**
     Link: Massachusetts Institute of Technology: David
     Roylance’s [“Introduction to
-    Composites”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.2.3.pdf) (PDF)  
+    Composites”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.2.3.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.   
@@ -223,7 +223,7 @@ Upon successful completion of this unit, the student will be able to:
     “Stress-Strain Curves”**
     Link: Massachusetts Institute of Technology: David Roylance’s
     [“Stress-Strain
-    Curves”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.2.4.pdf) (PDF)  
+    Curves”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.2.4.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.   
@@ -239,7 +239,7 @@ Upon successful completion of this unit, the student will be able to:
 **2.2.5 Materials Response** <span id="2.2.5"></span> 
 -   **Activity: The Saylor Foundation’s “Materials Response”**
     Link: The Saylor Foundation’s [“Materials
-    Response”](http://www.saylor.org/site/wp-content/uploads/2012/10/ME1022.2.5.pdf) (PDF)  
+    Response”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ME1022.2.5.pdf) (PDF)  
       
      Instructions: Please click the link above and complete all the
     questions.  These questions ask for your qualitative and
@@ -248,7 +248,7 @@ Upon successful completion of this unit, the student will be able to:
     especially the example calculations contained therein, for subunit
     2.2 again.  When you finish, check your answer against The Saylor
     Foundation's [“Materials Response Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/10/ME1022.2.52.pdf).  
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ME1022.2.52.pdf).  
       
      Terms of Use: This resource is licensed under a [Creative Commons
     Attribution 3.0
@@ -261,7 +261,7 @@ id="2.3"></span> 
 -   **Reading: Massachusetts Institute of Technology: David Roylance’s
     “Trusses”**
     Link: Massachusetts Institute of Technology: David Roylance’s
-    [“Trusses”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.3.1.pdf) (PDF)  
+    [“Trusses”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.3.1.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.   
@@ -278,7 +278,7 @@ id="2.3"></span> 
     “Pressure Vessels”**
     Link: Massachusetts Institute of Technology: David
     Roylance’s [“Pressure
-    Vessels”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.3.2.pdf) (PDF)  
+    Vessels”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.3.2.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  Study problems 1 and 2 and the end of the text.  
@@ -296,7 +296,7 @@ id="2.3"></span> 
     “Shear and Torsion”**
     Link: Massachusetts Institute of Technology: David Roylance’s
     [“Shear and
-    Torsion”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.3.3.pdf) (PDF)  
+    Torsion”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.3.3.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.   
@@ -311,7 +311,7 @@ id="2.3"></span> 
 **2.3.4 Stress Concentrations** <span id="2.3.4"></span> 
 -   **Reading: The Saylor Foundation’s “Stress Concentration”**
     Link: The Saylor Foundation’s [“Stress
-    Concentration”](http://www.saylor.org/site/wp-content/uploads/2012/03/ME102_2.3.4_StressConcentration-FINAL.pdf) (PDF)  
+    Concentration”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/ME102_2.3.4_StressConcentration-FINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  After reading, consider where stress may be concentrated
@@ -326,13 +326,13 @@ id="2.3"></span> 
 -   **Activity: The Saylor Foundation's “Subunit 2.3.5 Review
     Activity”**
     Link: The Saylor Foundation’s [“Subunit 2.3.5 Review
-    Activity”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.3.5.pdf) (PDF)  
+    Activity”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.3.5.pdf) (PDF)  
       
      Instructions:  Please click on the link above and complete all the
     questions.  Please consult resources from subunit 2.3 work on the
     activity.  After completion, please refer to The Saylor Foundation's
     [“Subunit 2.3.5 Review Activity Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.3.52.pdf).  
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.3.52.pdf).  
       
      Terms of Use: This resource is licensed under a [Creative Commons
     Attribution 3.0
@@ -344,7 +344,7 @@ id="2.3"></span> 
 -   **Reading: Massachusetts Institute of Technology: David Roylance’s
     “Kinematics”**
     Link: Massachusetts Institute of Technology: David
-    Roylance’s [“Kinematics”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.4.1.pdf) (PDF)  
+    Roylance’s [“Kinematics”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.4.1.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.   
@@ -360,7 +360,7 @@ id="2.3"></span> 
 -   **Reading: Massachusetts Institute of Technology: David Roylance's
     “Equilibrium”**
     Link: Massachusetts Institute of Technology: David
-    Roylance's [“Equilibrium”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.4.2.pdf) (PDF)  
+    Roylance's [“Equilibrium”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.4.2.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article. You may simply browse this reading.   
@@ -377,7 +377,7 @@ id="2.3"></span> 
     “Tensor Transformations”**
     Link: Massachusetts Institute of Technology: David
     Roylance’s [“Tensor
-    Transformations”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.4.3.pdf) (PDF)  
+    Transformations”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.4.3.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  You may simply browse this reading.   
@@ -395,7 +395,7 @@ id="2.4.4"></span> 
     “Constitutive Relations”**
     Link: Massachusetts Institute of Technology: David Roylance’s
     [“Constitutive
-    Relations”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.4.4.pdf) (PDF)  
+    Relations”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.4.4.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  You may simply browse this reading.   
@@ -411,13 +411,13 @@ id="2.4.4"></span> 
 -   **Activity: The Saylor Foundation's “Subunit 2.4.5 Review
     Activity”**
     The Saylor Foundation's [“Subunit 2.4.5 Review
-    Actvity”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.4.5.pdf) (PDF)  
+    Actvity”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.4.5.pdf) (PDF)  
       
      Instructions: Please click on the link above and complete all the
     questions.  Please consult the resources from subunit 2.4 as you
     work.  After completion, please refer to The Saylor
     Foundation's [“Subunit 2.4.5 Review Activity Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME1022.4.52.pdf) (PDF).  
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1022.4.52.pdf) (PDF).  
       
      Terms of Use: This resource is licensed under a [Creative Commons
     Attribution 3.0
