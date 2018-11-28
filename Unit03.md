@@ -84,7 +84,7 @@ id="3.1.1"></span> 
     “Shear and Bending Moment Diagrams”**
     Link: Massachusetts Institute of Technology: David Roylance’s
     [“Shear and Bending Moment
-    Diagrams”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1023.1.1.pdf) (PDF)  
+    Diagrams”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1023.1.1.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.   
@@ -101,7 +101,7 @@ id="3.1.1"></span> 
     “Stresses in Beams”**
     Link: Massachusetts Institute of Technology: David Roylance’s
     [“Stresses in
-    Beams”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1023.1.2.pdf) (PDF)  
+    Beams”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1023.1.2.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.   
@@ -117,7 +117,7 @@ id="3.1.1"></span> 
 -   **Reading: The Saylor Foundation’s “Beam Loading, Internal Stresses,
     and Deflections”**
     Link: The Saylor Foundation’s [“Beam Loading, Internal Stresses, and
-    Deflections”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME102_3.1.3_FINAL.pdf) (PDF)  
+    Deflections”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME102_3.1.3_FINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -130,7 +130,7 @@ id="3.1.1"></span> 
 -   **Reading: Massachusetts Institute of Technology: David Roylance’s
     “Beam Displacements”**
     Link: Massachusetts Institute of Technology: David Roylance’s [“Beam
-    Displacements”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1023.1.3.pdf) (PDF)  
+    Displacements”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1023.1.3.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -145,7 +145,7 @@ id="3.1.1"></span> 
 **3.1.4 Curved and Composite Beams** <span id="3.1.4"></span> 
 -   **Reading: The Saylor Foundation’s “Curved and Composite Beams”**
     Link: The Saylor Foundation’s [“Curved and Composite
-    Beams”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ME1023.1.4.pdf) (PDF)  
+    Beams”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/ME1023.1.4.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  Find examples of both curved and composite beams in your
@@ -161,7 +161,7 @@ id="3.1.1"></span> 
     “Laminated Composite Plates”**
     Link: Massachusetts Institute of Technology: David
     Roylance’s [“Laminated Composite
-    Plates”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1023.1.5.pdf) (PDF)  
+    Plates”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1023.1.5.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -176,7 +176,7 @@ id="3.1.1"></span> 
 -   **Activity: The Saylor Foundation’s “Subunit 3.1.5 Review
     Activity”**
     Link: The Saylor Foundation’s [“Subunit 3.1.5 Review
-    Activity”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1023.1.52.pdf) (PDF)  
+    Activity”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1023.1.52.pdf) (PDF)  
       
      Instructions: Please click on the link above and complete all the
     questions.  Please consult resources from the previous subunits as
@@ -184,7 +184,7 @@ id="3.1.1"></span> 
     in the reading for subunit 3.1.3 as a guide.  Upon completion,
     please refer to The Saylor Foundation's [“Subunit 3.1.5 Review
     Activity Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1023.1.53.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1023.1.52.pdf).  
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1023.1.53.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1023.1.52.pdf).  
       
      Terms of Use: This resource is licensed under a [Creative Commons
     Attribution 3.0
@@ -206,7 +206,7 @@ id="3.2.1"></span> 
     “Closed-Form Solutions”**
     Link: Massachusetts Institute of Technology: David Roylance’s
     [“Closed-Form
-    Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1023.2.1.pdf) (PDF)  
+    Solutions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1023.2.1.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -224,7 +224,7 @@ id="3.2.2"></span> 
     “Experimental Strain Analysis”**
     Link: Massachusetts Institute of Technology: David
     Roylance's [“Experimental Strain
-    Analysis”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1023.2.2.pdf) (PDF)  
+    Analysis”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1023.2.2.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -242,7 +242,7 @@ id="3.2.2"></span> 
     “Finite Element Analysis”**
     Link: Massachusetts Institute of Technology: David
     Roylance's [“Finite Element
-    Analysis”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1023.2.3.pdf) (PDF)  
+    Analysis”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1023.2.3.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -258,13 +258,13 @@ id="3.2.2"></span> 
 -   **Activity: The Saylor Foundation's “Subunit 3.2.4 Review
     Activity”**
     Link: The Saylor Foundation's [“Subunit 3.2.4 Review
-    Activity”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1023.2.4.pdf) (PDF)  
+    Activity”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1023.2.4.pdf) (PDF)  
       
      Instructions: Please click the link above and complete all the
     questions.  Please consult resources from the previous subunits as
     you do so.  Upon completion, refer to The Saylor
     Foundation's [“Subunit 3.2.4 Review Activity Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1023.2.42.pdf).  
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1023.2.42.pdf).  
       
      Terms of Use: This resource is licensed under a [Creative Commons
     Attribution 3.0
@@ -278,7 +278,7 @@ id="3.3"></span> 
     “Yield and Plastic Flow”**
     Link: Massachusetts Institute of Technology: David
     Roylance's [“Yield and Plastic
-    Flow”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1023.3.1.pdf) (PDF)  
+    Flow”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1023.3.1.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -295,7 +295,7 @@ id="3.3"></span> 
 **3.3.2 Fracture Mechanics** <span id="3.3.2"></span> 
 -   **Reading: The Saylor Foundation’s “Fracture”**
     Link: The Saylor Foundation’s
-    [“Fracture”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/ME102_3.3.2_Fracture-FINAL.pdf) (PDF)  
+    [“Fracture”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/ME102_3.3.2_Fracture-FINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -309,7 +309,7 @@ id="3.3"></span> 
 -   **Reading: Massachusetts Institute of Technology: David Roylance's
     “Fatigue”**
     Link: Massachusetts Institute of Technology: David
-    Roylance's [“Fatigue”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1033.3.3.pdf) (PDF)  
+    Roylance's [“Fatigue”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1033.3.3.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  Then, study problems 1 and 2 at the end of the text.  
@@ -324,7 +324,7 @@ id="3.3"></span> 
 **3.3.4 Buckling** <span id="3.3.4"></span> 
 -   **Reading: The Saylor Foundation’s “Compression and Buckling”**
     Link: The Saylor Foundation’s [“Compression and
-    Buckling”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/ME102_3.3.4_CompressionAndBuckling-FINAL.pdf) (PDF)  
+    Buckling”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/ME102_3.3.4_CompressionAndBuckling-FINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -337,7 +337,7 @@ id="3.3"></span> 
 **3.3.5 Creep** <span id="3.3.5"></span> 
 -   **Reading: The Saylor Foundation’s “Creep Deformation”**
     Link: The Saylor Foundation’s [“Creep
-    Deformation”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/ME102_3.3.5_FINAL.pdf) (PDF)  
+    Deformation”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/ME102_3.3.5_FINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -350,7 +350,7 @@ id="3.3"></span> 
 **3.3.6 Cyclic Fatigue** <span id="3.3.6"></span> 
 -   **Reading: The Saylor Foundation’s “Cyclic Fatigue”**
     Link: The Saylor Foundation’s [“Cyclic
-    Fatigue”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/ME102_3.3.6_CyclicFatigue-FINAL.pdf) (PDF)  
+    Fatigue”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/ME102_3.3.6_CyclicFatigue-FINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -364,7 +364,7 @@ id="3.3"></span> 
 -   **Reading: The Saylor Foundation’s “Structure Failure, Stresses, and
     Deflections”**
     Link: The Saylor Foundation’s [“Structure Failure, Stresses, and
-    Deflections”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/ME102_3.3.7_Structure-Failure-Stresses-and-Deflections-FINAL.pdf) (PDF)  
+    Deflections”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/ME102_3.3.7_Structure-Failure-Stresses-and-Deflections-FINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -378,13 +378,13 @@ id="3.3"></span> 
 -   **Activity: The Saylor Foundation's “Subunit 3.3.8 Review
     Activity”**
     Link: The Saylor Foundation’s [“Subunit 3.3.8 Review
-    Activity”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1023.3.8.pdf) (PDF)  
+    Activity”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1023.3.8.pdf) (PDF)  
         
      Instructions: Please click on the link above and complete all the
     questions.  Please consult resources from the previous subunits as
     you do so.  Upon completion, refer to The Saylor
     Foundation's [“Subunit 3.3.8 Review Activity Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME1023.3.82.pdf).  
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME1023.3.82.pdf).  
       
      Terms of Use: This resource is licensed under a [Creative Commons
     Attribution 3.0
